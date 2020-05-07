@@ -1,8 +1,3 @@
-/*******************************************************
-* Modelo de registro de No Conformidad. 
-* Algunas caracteristicas las hereda del documento base
-*******************************************************/
-
 const mongoose = require('mongoose');
 const base = require('../models/document');
 
